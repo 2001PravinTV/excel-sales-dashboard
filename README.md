@@ -32,7 +32,7 @@ It helps analyze:
 
 📷 Dashboard Preview
 
-![Dashboard] (dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
